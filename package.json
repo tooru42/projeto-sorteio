@@ -1,0 +1,27 @@
+{
+  "name": "projeto-sorteio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsx src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooru42/projeto-sorteio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tooru42/projeto-sorteio/issues"
+  },
+  "homepage": "https://github.com/tooru42/projeto-sorteio#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.14",
+    "@types/terminal-kit": "^2.5.7"
+  },
+  "dependencies": {
+    "terminal-kit": "^3.1.2"
+  }
+}
